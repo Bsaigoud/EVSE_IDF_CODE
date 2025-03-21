@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+F:/EVSE_IDF_FIRMWARE/EVSE_AC_IDF/EVSE_AC_IDF/build/CMakeFiles/bootloader
+F:/EVSE_IDF_FIRMWARE/EVSE_AC_IDF/EVSE_AC_IDF/build/CMakeFiles/bootloader.rule
+F:/EVSE_IDF_FIRMWARE/EVSE_AC_IDF/EVSE_AC_IDF/build/CMakeFiles/bootloader-complete.rule
+F:/EVSE_IDF_FIRMWARE/EVSE_AC_IDF/EVSE_AC_IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+F:/EVSE_IDF_FIRMWARE/EVSE_AC_IDF/EVSE_AC_IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+F:/EVSE_IDF_FIRMWARE/EVSE_AC_IDF/EVSE_AC_IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+F:/EVSE_IDF_FIRMWARE/EVSE_AC_IDF/EVSE_AC_IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+F:/EVSE_IDF_FIRMWARE/EVSE_AC_IDF/EVSE_AC_IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+F:/EVSE_IDF_FIRMWARE/EVSE_AC_IDF/EVSE_AC_IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+F:/EVSE_IDF_FIRMWARE/EVSE_AC_IDF/EVSE_AC_IDF/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

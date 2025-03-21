@@ -1,0 +1,54 @@
+idf_component_register(SRCS 
+                    "custom_nvs.c"
+                    "EnergyMeter.c"
+                    "rc522.c"
+                    "Rfid.c"
+                    "websocket_connect.c" 
+                    "networkInterfacesControl.c"
+                    "check_connection.c"
+                    "ppp_connect_esp_modem.c"
+                    "ppp_connect.c"
+                    "wifi_connect.c" 
+                   
+                    "display.c"
+                    "slave.c" 
+                    "ocpp.c"
+                    "ocpp_task.c" 
+                    "main.c"
+                    "ControlPilotAdc.c"
+                    "ControlPilotPwm.c"
+                    "ledStrip.c"
+                    "ControlPilotState.c"
+                    "local_http_server.c"
+                    "faultGpios.c"
+                    "GpioExpander.c"
+                    "OTA.c"
+                    "logsToSpiffs.c"
+                    "rtc_clock.c"
+                    "ethernet_connect.c"
+                    INCLUDE_DIRS "."
+                    REQUIRES
+                    hd44780
+                    pcf8574
+                    pcf8563
+                    mcp23008
+                    
+                    color 
+                    log
+                    i2cdev
+                    driver
+                    esp_idf_lib_helpers 
+                    esp_http_server
+                    http_parser 
+                    json 
+                    tcp_transport
+                    esp_event
+                    esp_wifi
+                    esp_eth
+                    spiffs
+                    app_update
+                    nvs_flash 
+                    esp_system
+                    esp_http_client
+                    esp_https_ota
+                    app_update)
